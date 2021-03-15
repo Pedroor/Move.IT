@@ -7,7 +7,15 @@ justify-content: center;
 align-items: center;'
 >
     <img src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" width=200 height=200/>
+    <img src="https://media.giphy.com/media/3oKIPavRPgJYaNI97W/giphy.gif" width=220 height=220 style='margin: 4px'/>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width=200 height=200/>
 </p>
+
+---
+
+## 🌐 Teste a aplicação online!
+
+Ei! Você pode testar a aplicação no Vercel neste **[link](https://nlw4-moveit-three.vercel.app/)**.
 
 ---
 
@@ -24,6 +32,10 @@ Nesse projeto foi desenvolvido (através do Next Level Week #4 da Rocketseat) um
 
 - Front-End: ContextAPI, JS-Cookie;
 
+## 👨‍💻 Minha experiência
+
+Minha experiência com o projeto foi bastante gratificante, em vista que, eu nunca havia trabalhado com Next.js e algumas outras funcionalidades das quais aprendi durante o desenvolvimento do projeto, tais como ContextAPI, JS-Cookie, além do uso de APIs nativas do browser como Notificações, Audio entre outras. Sempre acaba sendo bastante proveitoso cada projeto React do qual trabalho, pois sempre aprendo coisas novas, convenções novas e sempre tenho contato com tecnologias de ponta, o que me motivam bastante a continuar os estudos com o framework.
+
 ## ⚙ Como você pode rodar este projeto
 
 Se você quer rodar este projeto no seu computador, é muito fácil, siga os passos e tudo estará configurado:
@@ -36,3 +48,14 @@ Pronto? Agora é hora de rodar o projeto! Na pasta do projeto, no terminal execu
 <strong> $ `yarn dev`</strong>
 
 Pronto! Agora esse projetão incrível vai estar rodando na sua máquina! 😎
+
+## 🖼️ Screenshots da aplicação
+
+<div align='center'>
+    <h3>Home</h3>
+    <img src="https://i.imgur.com/ml3zZOL.png" width=481 height=396 style='margin-bottom:15px'/>
+    <h3>Novo Desafio</h3>
+    <img src="https://i.imgur.com/eKMZJzY.png" width=481 height=396 style='margin-bottom:15px'/>
+    <h3>Level Up</h3>
+    <img src="https://i.imgur.com/IPCeJm3.png" width=481 height=396/>
+</div>
