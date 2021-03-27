@@ -16,12 +16,11 @@ align-items: center;'
 
 ## 💡 O que foi desenvolvido?
 
-Nesse projeto foi desenvolvido (através do Next Level Week #4 da Rocketseat) uma aplicação que usa a [técnica de pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) como foco principal. A ideia é bastante simples, o usuário inicia um _timer_ de 25 minutos, do qual o mesmo deve realizar alguma atividade produtiva/que requer atenção durante esse período de tempo e ao final do _timer_ a aplicação manda um desafio físico (que pode envolver o corpo ou os olhos) do qual o usuário deve completar afim de ganhar uma pontuação em XP (que varia de acordo com o desafio). Ao ganhar XP o usuário pode subir de nível e progredir na aplicação. Completando ou falhando o desafio a aplicação reinicia o _timer_ para que um novo desafio seja liberado.
+Nesse projeto foi desenvolvido (através do Next Level Week #4 da Rocketseat) uma aplicação que usa a [técnica de pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) como foco principal. A ideia é bastante simples, o usuário inicia um _timer_ de 25 minutos, do qual o mesmo deve realizar alguma atividade produtiva/que requer atenção durante esse período de tempo e ao final do _timer_ a aplicação manda um desafio físico (que pode envolver o corpo ou os olhos) do qual o usuário deve completar afim de ganhar uma pontuação em XP (que varia de acordo com o desafio). Ao ganhar XP o uCancel Changessuário pode subir de nível e progredir na aplicação. Completando ou falhando o desafio a aplicação reinicia o _timer_ para que um novo desafio seja liberado.
 
 ## 💻 Tecnologias
 
-- _Back-End (Intermediário)_: **Next.js**
-- _Front-End_: **ReactJS**
+- _Front-End_: **ReactJS**/ **Next.js**
 
 ## 📂 Outras tecnologias/técnicas
 
