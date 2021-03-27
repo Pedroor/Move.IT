@@ -7,17 +7,12 @@ justify-content: center;
 align-items: center;'
 >
     <img src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" width=200 height=200/>
-    <img src="https://media.giphy.com/media/3oKIPavRPgJYaNI97W/giphy.gif" width=220 height=220 style='margin: 4px'/>
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width=200 height=200/>
+
 </p>
 
 ---
 
-## 🌐 Teste a aplicação online!
 
-Ei! Você pode testar a aplicação no Vercel neste **[link](https://nlw4-moveit-three.vercel.app/)**.
-
----
 
 ## 💡 O que foi desenvolvido?
 
