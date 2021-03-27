@@ -27,9 +27,7 @@ Nesse projeto foi desenvolvido (através do Next Level Week #4 da Rocketseat) um
 
 - Front-End: ContextAPI, JS-Cookie;
 
-## 👨‍💻 Minha experiência
 
-Minha experiência com o projeto foi bastante gratificante, em vista que, eu nunca havia trabalhado com Next.js e algumas outras funcionalidades das quais aprendi durante o desenvolvimento do projeto, tais como ContextAPI, JS-Cookie, além do uso de APIs nativas do browser como Notificações, Audio entre outras. Sempre acaba sendo bastante proveitoso cada projeto React do qual trabalho, pois sempre aprendo coisas novas, convenções novas e sempre tenho contato com tecnologias de ponta, o que me motivam bastante a continuar os estudos com o framework.
 
 ## ⚙ Como você pode rodar este projeto
 
