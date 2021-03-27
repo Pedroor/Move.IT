@@ -49,13 +49,4 @@ Pronto? Agora é hora de rodar o projeto! Na pasta do projeto, no terminal execu
 
 Pronto! Agora esse projetão incrível vai estar rodando na sua máquina! 😎
 
-## 🖼️ Screenshots da aplicação
 
-<div align='center'>
-    <h3>Home</h3>
-    <img src="https://i.imgur.com/ml3zZOL.png" width=481 height=396 style='margin-bottom:15px'/>
-    <h3>Novo Desafio</h3>
-    <img src="https://i.imgur.com/eKMZJzY.png" width=481 height=396 style='margin-bottom:15px'/>
-    <h3>Level Up</h3>
-    <img src="https://i.imgur.com/IPCeJm3.png" width=481 height=396/>
-</div>
